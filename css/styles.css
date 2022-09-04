@@ -1,0 +1,30 @@
+body h1,
+li a,
+.homepage,
+.desc{
+  font-family: Arial, Verdana, sans-serif;
+}
+
+body h1,
+.homepage,
+.desc{
+  background-color: aquamarine;
+  color: crimson;
+}
+
+body h1{
+  text-align: center;
+}
+
+.photo{
+  width: 450px;
+  height: auto;
+}
+
+.odin{
+  width: 100%;
+}
+
+.hp_link{
+  font-size: 20px;
+}
